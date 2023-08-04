@@ -4,4 +4,6 @@ The machine learning model used for recognition was trained on a dataset of hand
 
 
 🔗 Data_set : https://drive.google.com/drive/folders/1e8J-mUzHhPs394yFUMEDLaqbMBNemEKD
+
+
 🔗 Model_link : https://drive.google.com/file/d/1NXq2WwmVUzNBdw3jI3yyYkK6GNv-y_AO/view?usp=drivesdk 
